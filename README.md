@@ -1,4 +1,4 @@
-# single-page-webpage
+# SINGLE PAGE WEBPAGE
 created a single page webpage about a mobile phone and its features using html css and some javascript for scroll animation
 
 # **DEMO PICTURE OF THE WEBPAGE**
