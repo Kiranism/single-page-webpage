@@ -1,7 +1,7 @@
 # single-page-webpage
 created a single page webpage about a mobile phone and its features using html css and some javascript for scroll animation
 
-**DEMO PICTURE OF THE WEBPAGE**
+# **DEMO PICTURE OF THE WEBPAGE**
 <img align="center" src="images/demo.PNG">
 <img align="center" src="images/demo.gif">
 
