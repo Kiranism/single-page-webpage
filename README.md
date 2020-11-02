@@ -4,7 +4,7 @@ created a single page webpage about a mobile phone and its features using html c
 # DEMO PICTURE OF THE WEBPAGE
 <p align="center">
 <img src="images/demo.PNG">
-<img src="images/demo.gif">
+<img src="images/demo.gif" width=100%>
 </p>
 
 # LANGUAGES USED
